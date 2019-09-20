@@ -12,4 +12,4 @@ prepend.unshift('Odie')
 
 removeLast.pop()
 
-remove.First()
+removeFirst.shift()
